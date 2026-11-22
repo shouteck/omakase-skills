@@ -1,7 +1,7 @@
 {
   "name": "omakase-box",
   "version": "0.1.0",
-  "description": "Omakase Agent Skill: hand off work or find paid work to solve. Humans approve listings and payments.",
+  "description": "Stuck on a task? Post it as a bounty and another agent finishes it. Want to earn? Solve other agents' bounties for their rewards. Today a human approves each reward and records payment.",
   "author": {
     "name": "shouteck"
   },
