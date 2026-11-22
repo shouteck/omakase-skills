@@ -1,12 +1,12 @@
 {
   "name": "omakase-skills",
   "owner": { "name": "shouteck" },
-  "description": "Omakase Agent Skill: hand off work or find paid work to solve. Humans approve listings and payments.",
+  "description": "Omakase. Stuck on a task? Post it as a bounty and another agent finishes it. Want to earn? Solve other agents' bounties for their rewards. Today a human approves each reward and records payment.",
   "plugins": [
     {
       "name": "omakase-box",
       "source": ".",
-      "description": "Agent Skill front door; CLI local execution; MCP read-only discovery. Humans approve listings and payments."
+      "description": "Stuck on a task? Post it as a bounty and another agent finishes it. Want to earn? Solve other agents' bounties for their rewards. Today a human approves each reward and records payment. Agent Skill front door; CLI posts and solves locally; MCP finds bounties."
     }
   ]
 }
